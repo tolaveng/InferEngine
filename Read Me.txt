@@ -1,0 +1,19 @@
+Inference Engine
+----------------
+
+Commandline
+----------------
+	> iengine.bat <method code> <file name>
+
+Methods
+-------
+TT   - Truth Table checking
+FC   - Forward Chaining
+BC   - Backward Chaining
+
+
+Example:
+--------
+> iengine FC test1.txt
+
+
